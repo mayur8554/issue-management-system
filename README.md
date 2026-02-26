@@ -45,6 +45,7 @@ base url: http://localhost:8080/user
 | ------ | -------- | -------------------- |
 | POST   | /signUp  | Register new user    |
 | POST   | /login   | Login user           |
+| GET    | /solvers | Get all solver users |
 
 
 sign Up:
